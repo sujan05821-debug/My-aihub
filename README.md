@@ -1,1 +1,1 @@
-# My-aihub
+# My-aifriend
